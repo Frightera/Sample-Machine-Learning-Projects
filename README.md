@@ -6,4 +6,4 @@
 | 2    	| Generative Adversarial Network 	| Generate Synthetic Images       	|
 | 3    	| LSTM Autoencoder               	| Detect Anomalies in Time Series 	|
 | 4    	| Siamese Network                               	| MNIST Handwritten Digits                                	|
-| 5    	|                                	|                                 	|
+| 5    	| Autoencoders                               	| Reducing Dimensions In Data                                	|
