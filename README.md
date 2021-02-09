@@ -10,7 +10,7 @@
 |   6  |  Convolutional Neural Networks | COVID-19 Detection Using X-Rays |
 |   7  |      SARIMAX + FB Prophet      |       COVID-19 Time Series      |
 |   8  |    Random Forest Classifier    |  Imbalanced CC Fraud Detection  |
-|      |                                |                                 |
+|   9  |  Ensemble ( VGG19 + Xception ) |  Malaria Dataset Classification |
 |      |                                |                                 |
 |      |                                |                                 |
 |      |                                |                                 |
