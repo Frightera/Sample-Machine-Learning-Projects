@@ -11,7 +11,7 @@
 |   7  |      SARIMAX + FB Prophet      |       COVID-19 Time Series      |
 |   8  |    Random Forest Classifier    |  Imbalanced CC Fraud Detection  |
 |   9  |  Ensemble ( VGG19 + Xception ) |  Malaria Dataset Classification |
-|      |                                |                                 |
-|      |                                |                                 |
+|  10  |                -               |                -                |
+|  11  |        NLP TF Hub Models       |      NLP Transfer Learning      |
 |      |                                |                                 |
 |      |                                |                                 |
