@@ -14,3 +14,4 @@
 |     12    |   Simple Probabilistic Model   | HAR Dataset Weights & Outputs Uncertainty |
 |     13    |           Plain FC NN          |           From Scratch in TF 2.x          |
 |     14    |         BERT (Pytorch)         |  Sentiment Analysis Twitter SMILE dataset |
+|     15    |           Autoencoder          |              Image Denoising              |
