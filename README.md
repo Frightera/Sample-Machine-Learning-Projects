@@ -9,11 +9,10 @@
 |     7     |      SARIMAX + FB Prophet      |            COVID-19 Time Series            |
 |     8     |    Random Forest Classifier    |        Imbalanced CC Fraud Detection       |
 |     9     |  Ensemble ( VGG19 + Xception ) |       Malaria Dataset Classification       |
-|     10    |                -               |                      -                     |
-|     11    |        NLP TF Hub Models       |            NLP Transfer Learning           |
-|     12    |   Simple Probabilistic Model   |  HAR Dataset Weights & Outputs Uncertainty |
-|     13    |           Plain FC NN          |           From Scratch in TF 2.x           |
-|     14    |         BERT (Pytorch)         |  Sentiment Analysis Twitter SMILE dataset  |
-|     15    |           Autoencoder          |              Image Denoising               |
-|     16    |       2D Convolutional NN      |         Visualizing Filters of CNNs        |
-|     17    |   ResNet152 Transfer Learning  | CIFAR10 Dataset & 96% Accuracy on Test Set |
+|     10    |        NLP TF Hub Models       |            NLP Transfer Learning           |
+|     11    |   Simple Probabilistic Model   |  HAR Dataset Weights & Outputs Uncertainty |
+|     12    |           Plain FC NN          |           From Scratch in TF 2.x           |
+|     13    |         BERT (Pytorch)         |  Sentiment Analysis Twitter SMILE dataset  |
+|     14    |           Autoencoder          |              Image Denoising               |
+|     15    |       2D Convolutional NN      |         Visualizing Filters of CNNs        |
+|     16    |   ResNet152 Transfer Learning  | CIFAR10 Dataset & 96% Accuracy on Test Set |
