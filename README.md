@@ -1,6 +1,8 @@
+### This repository contains the projects that I've experimented-tried when I was new in Deep Learning.
+
 | Project # |          Network Type          |                   Project                  |
 |:---------:|:------------------------------:|:------------------------------------------:|
-|     1     |           LSTM + W2C           |             Sentiment Analysis             |
+|     1     |           LSTM + W2C (Keras)           |             Sentiment Analysis             |
 |     2     | Generative Adversarial Network |          Generate Synthetic Images         |
 |     3     |        LSTM Autoencoder        |       Detect Anomalies in Time Series      |
 |     4     |         Siamese Network        |          MNIST Handwritten Digits          |
